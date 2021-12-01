@@ -1,0 +1,25 @@
+
+
+body {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-image: url(imagens/greeting.jpg);
+}
+
+.conteudo {
+    border: 2px;
+    margin: 200px auto;
+    width: 60%;
+    width: 1000px;
+    background-color: #e1e0e0;
+    opacity: 0.8;
+    height: calc(60vh - 10px - 30px);
+    padding: 15px;
+}
+
+button {
+    width: 700px;
+    padding: 10px;
+    font-size: 20px;
+}
